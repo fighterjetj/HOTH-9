@@ -1,3 +1,3 @@
-#SUStainability Game
+# SUStainability Game
 
 Updates coming later
