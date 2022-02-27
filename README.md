@@ -21,3 +21,4 @@ Creative Commons CC BY-SA 3.0
 https://creativecommons.org/licenses/by-sa/3.0/
 
 Huge props to Innersloth Studios and their hit game Among Us.  Would not have been possible without you.
+(This game is parody, and not serious copyright infringement.  The images may or may not have been placeholders that we ran out of time to change)
