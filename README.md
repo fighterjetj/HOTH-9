@@ -9,6 +9,9 @@ Run world.py with pygame installed
 What if I don't have python?
 Answer: Take the L knowing you will never be able to play this fever dream of a game.
 
+How do I play?
+Answer: We do not know for sure.
+
 Updates coming later
 
 
